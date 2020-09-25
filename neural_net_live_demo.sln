@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neural_net_live_demo", "neural_net_live_demo\neural_net_live_demo.pyproj", "{12BD1258-F9AC-4F00-A12B-254959DD2DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BD1258-F9AC-4F00-A12B-254959DD2DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BD1258-F9AC-4F00-A12B-254959DD2DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {603ACB87-70DE-439C-91E3-3C731A90ADC5}
+	EndGlobalSection
+EndGlobal
